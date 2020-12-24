@@ -1,4 +1,4 @@
 <?php 
-echo "Hello World - from Kshitij andd Priyanshu";
+echo "Hello World - Kshitij and Priyanshu";
 
 ?>
