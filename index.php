@@ -1,7 +1,7 @@
 <?php 
-echo "\nHello World - Kshitij, Priyanshu";
-echo "\nHello World - Kshitij, Priyanshu";
-echo "\nFinal Test !!!!!";
+echo "Hello World - Kshitij, Priyanshu<br>";>
+echo "Hello World - Kshitij, Priyanshu<br>";
+echo "Final Test !!!!!";
 
 
 ?>
